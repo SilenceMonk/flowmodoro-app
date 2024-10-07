@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app/statistics.tsx", "app/timer.tsx", "app/statistics/index.jsx", "components/SwipeNavigator.jsx", "app/StatisticsScreen.tsx"  ]
 }
